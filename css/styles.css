@@ -1,0 +1,21 @@
+body{
+  background-color: bisque;
+  font-family: 'Times New Roman', 'Verdana', 'Arial'
+}
+
+#heading{
+  text-align: center;
+  font-size: 87px;
+  border: 10px solid transparent;
+  padding: .1em;
+  border-radius: 5px;
+  border-image: url(../img/ingredients.jpg) 30 round;
+}
+
+li{
+  font-size: 30px;
+  text-align:right;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode';
+  list-style-type: none;
+  
+}
