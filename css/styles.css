@@ -24,6 +24,7 @@ img{
   width: 500px;
 }
 
+/*List*/
 .ingredients,
 .steps{
   text-align: left;
@@ -31,10 +32,12 @@ img{
   font-family: 'Verdana', 'Times New Roman', 'Arial';
 }
 
+/*ingredient usage heading*/
 .inghead{
   font-size: 30px;
 }
 
+/*Ingredient and Steps Heading*/
 .ingredientheading,
 .headsteps{
   font-size: 36px;
